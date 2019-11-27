@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 eferf
 erf
 fer
 erfreferDit is test1
 erfer
+=======
+dfdswqeffsdDit is te2t1
+eqwffeqwf
+f
+fewfqeweqwf
+wqfewqf
+wqe
+f
+qqwefewfweq
+qewfwe
+efewqfweqf qwfe
+
+qwef wqe
+>>>>>>> tak2

@@ -1,8 +1,3 @@
-# MyAppwdew
-123
-
-
-wedwedwed
-wedwedwcdscdscsd
-
-wqdqw
+# MyApp
+ 
+Leuk he ? Deze repo mag je gebruiken om te oefenen.
